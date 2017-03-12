@@ -6,4 +6,4 @@ Noise reduction uses median filtering in a 3x3 and 5x5 window.
 
 Contrast Stretching takes the lowest and highest 3% of the pixels in the image and sets them to the minimum and maximum values in the image.
 
-This was done in vhdl in the spring of 2014
+This was done in the spring of 2014
